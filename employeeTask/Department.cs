@@ -30,6 +30,7 @@ namespace employeeTask
                     {
                         empp[i] = e.name;
                         employees = empp;
+                        empp = employees;
                         break;
                     }
 
