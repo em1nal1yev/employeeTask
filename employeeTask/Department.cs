@@ -24,6 +24,10 @@ namespace employeeTask
             if(employeeLimit > employees.Length) 
             {
                 string[] empp = new string[employees.Length + 1];
+                for(int i = 0; i<employees.Length; i++)
+                {
+                    empp[i] = employees[i];
+                }
                 for(int i = 0; i <= empp.Length; i++)
                 {
                     if (i == employees.Length)  

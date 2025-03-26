@@ -34,8 +34,7 @@
               "RelativeToolTip": "employeeTask\\Employee.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T08:26:26.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T08:26:26.203Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "employeeTask\\Department.cs",
               "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\employeeTask\\employeeTask\\Department.cs",
               "RelativeToolTip": "employeeTask\\Department.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T08:29:33.896Z",
               "EditorCaption": ""
@@ -60,8 +59,7 @@
               "RelativeToolTip": "employeeTask\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T21:27:10.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T21:27:10.982Z"
             }
           ]
         }
