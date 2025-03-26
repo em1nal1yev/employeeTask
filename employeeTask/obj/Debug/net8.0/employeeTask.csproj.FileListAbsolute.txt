@@ -1,0 +1,15 @@
+C:\Users\Emin\Desktop\backEndTasks\employeeTask\employeeTask\obj\Debug\net8.0\employeeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\backEndTasks\employeeTask\employeeTask\obj\Debug\net8.0\employeeTask.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\backEndTasks\employeeTask\employeeTask\obj\Debug\net8.0\employeeTask.AssemblyInfo.cs
+C:\Users\Emin\Desktop\backEndTasks\employeeTask\employeeTask\obj\Debug\net8.0\employeeTask.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\backEndTasks\employeeTask\employeeTask\obj\Debug\net8.0\employeeTask.sourcelink.json
+C:\Users\Emin\Desktop\backEndTasks\employeeTask\employeeTask\bin\Debug\net8.0\employeeTask.exe
+C:\Users\Emin\Desktop\backEndTasks\employeeTask\employeeTask\bin\Debug\net8.0\employeeTask.deps.json
+C:\Users\Emin\Desktop\backEndTasks\employeeTask\employeeTask\bin\Debug\net8.0\employeeTask.runtimeconfig.json
+C:\Users\Emin\Desktop\backEndTasks\employeeTask\employeeTask\bin\Debug\net8.0\employeeTask.dll
+C:\Users\Emin\Desktop\backEndTasks\employeeTask\employeeTask\bin\Debug\net8.0\employeeTask.pdb
+C:\Users\Emin\Desktop\backEndTasks\employeeTask\employeeTask\obj\Debug\net8.0\employeeTask.dll
+C:\Users\Emin\Desktop\backEndTasks\employeeTask\employeeTask\obj\Debug\net8.0\refint\employeeTask.dll
+C:\Users\Emin\Desktop\backEndTasks\employeeTask\employeeTask\obj\Debug\net8.0\employeeTask.pdb
+C:\Users\Emin\Desktop\backEndTasks\employeeTask\employeeTask\obj\Debug\net8.0\employeeTask.genruntimeconfig.cache
+C:\Users\Emin\Desktop\backEndTasks\employeeTask\employeeTask\obj\Debug\net8.0\ref\employeeTask.dll
